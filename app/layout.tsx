@@ -55,6 +55,11 @@ export default function RootLayout({
         name="google-site-verification"
         content="V8lmEvFOdYBlChgR6pYABBZBhI1EFnPb1YuxTTdHXMU"
       /> */}
+      <script
+        defer
+        src="https://cloud.umami.is/script.js"
+        data-website-id="397b9497-eb49-49d1-8807-ad97567308cf"
+      ></script>
       <body className={inter.className}>
         <ThemeProvider
           attribute="class"
