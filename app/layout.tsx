@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "media modify | Free Unlimited File Converter - Images, Video & Audio",
-  description: `Convert unlimited images, videos & audio files for free with Modifio. Fast, secure, no sign-up required. Transform your media files instantly online.`,
+  description: `Convert unlimited images, videos & audio files for free with MediaModify. Fast, secure, no sign-up required. Transform your media files instantly online.`,
   keywords: [
     "free file converter",
     "online file converter",

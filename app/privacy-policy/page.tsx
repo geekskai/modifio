@@ -3,8 +3,8 @@ export default function PrivacyPolicy() {
     <div className="space-y-12 text-md md:text-lg text-muted-foreground pb-4 md:pb-8">
       <p>Effective Date: Sun 3 Nov 2024</p>
       <p>
-        At Modifio, we are committed to safeguarding your privacy. This Privacy
-        Policy outlines our practices regarding the collection, use, and
+        At MediaModify, we are committed to safeguarding your privacy. This
+        Privacy Policy outlines our practices regarding the collection, use, and
         disclosure of personal information when you use our website and
         services. Please read this policy carefully to understand how we handle
         your data.
@@ -109,9 +109,9 @@ export default function PrivacyPolicy() {
       </div>
 
       <p>
-        By using Modifio, you agree to the practices outlined in this Privacy
-        Policy. Please discontinue use of our services if you do not agree with
-        this policy. Thank you for trusting us with your privacy.
+        By using MediaModify, you agree to the practices outlined in this
+        Privacy Policy. Please discontinue use of our services if you do not
+        agree with this policy. Thank you for trusting us with your privacy.
       </p>
     </div>
   );
