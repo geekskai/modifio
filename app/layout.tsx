@@ -8,22 +8,17 @@ import { ThemeProvider } from "@/components/theme-provider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "media modify | Free Unlimited File Converter - Images, Video & Audio",
+  title: "Free File Converter - Images, Video & Audio",
   description: `Convert unlimited images, videos & audio files for free with MediaModify. Fast, secure, no sign-up required. Transform your media files instantly online.`,
   keywords: [
     "free file converter",
     "online file converter",
     "image converter",
-    "video converter",
-    "audio converter",
     "unlimited file conversion",
     "media converter",
     "photo converter",
-    "mp3 converter",
-    "mp4 converter",
     "jpg converter",
     "png converter",
-    "convert files online",
   ],
   openGraph: {
     title: "media modify - Free Unlimited File Converter | No Restrictions",
