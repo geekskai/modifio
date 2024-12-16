@@ -50,8 +50,8 @@ export default function RootLayout({
         name="google-site-verification"
         content="V8lmEvFOdYBlChgR6pYABBZBhI1EFnPb1YuxTTdHXMU"
       /> */}
-      <script src="//cdn.bootcdn.net/ajax/libs/eruda/2.3.3/eruda.js"></script>
-      <script>eruda.init();</script>
+      <script src="https://unpkg.com/vconsole@latest/dist/vconsole.min.js"></script>
+      <script>var vConsole = new window.VConsole();</script>
       <script
         defer
         src="https://cloud.umami.is/script.js"
